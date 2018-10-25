@@ -1,0 +1,12 @@
+[SEPARA_PALABRA]  
+caracter="." 
+caracter=":"
+caracter="," 
+caracter=";"
+caracter=" " 
+caracter="-"
+caracter="_"
+[SALTO_PAGINA]  
+caracter="#" 
+
+ 
